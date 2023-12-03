@@ -5,3 +5,4 @@ użyj `git status`
 >## morgana
 |polacy|Rodacy|
 -----
+[x]
