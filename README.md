@@ -5,4 +5,6 @@ użyj `git status`
 >## morgana
 |polacy|Rodacy|
 -----
-[x]
+-[x]Policja
+-[]milicja 
+-[]ABŚP
