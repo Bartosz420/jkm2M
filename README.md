@@ -7,4 +7,4 @@ użyj `git status`
 -----
 - [x]Policja
 - []milicja 
-- []ABŚP
+- []ABŚP;
